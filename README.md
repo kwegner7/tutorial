@@ -23,3 +23,9 @@ git switch master
 git restore 
 
 switch is subset of checkout also restore
+
+git branch mybranch
+
+git switch  is git checkout divided into 2 ideas
+
+now branch
