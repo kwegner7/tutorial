@@ -35,3 +35,11 @@ git log --oneline --all --graph --decorate
 do merge on the web
 
 git fetch --prune
+
+https://chendaniely.github.io/training_ds_r/help-faq.html
+
+push origin <branch>
+Pull Request
+git fetch --prune
+bgt branch -d <branch>
+git log --oneline --graph --decorate --all
