@@ -39,7 +39,12 @@ git fetch --prune
 https://chendaniely.github.io/training_ds_r/help-faq.html
 
 push origin <branch>
-Pull Request
-git fetch --prune
-bgt branch -d <branch>
+Pull Request # when you push a branch to the remote, and merge the branch on
+git fetch --prune # clean your git history and remove references from remote that no longer exist
+git branch -d <branch> # removes branch from your local computer
 git log --oneline --graph --decorate --all
+
+git checkout -b main
+git switch -c <branch> : create and move to branch in 1 step
+
+
