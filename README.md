@@ -47,4 +47,15 @@ git log --oneline --graph --decorate --all
 git checkout -b main
 git switch -c <branch> : create and move to branch in 1 step
 
+Using branch called main
+git push origin main
+MERGE 2 BRANCHES
+
+merge one branch first
+
+git checkout -b update1
+CHANGE FOR update1
+git add --all
+git checkout main
+git checkout -b update2
 
