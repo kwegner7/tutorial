@@ -27,3 +27,9 @@ switch is subset of checkout also restore
 git branch mybranch
 
 git switch  is git checkout divided into 2 ideas
+
+now branch
+
+git log --oneline --all --graph --decorate
+
+do merge on the web
