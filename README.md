@@ -58,4 +58,8 @@ CHANGE FOR update1
 git add --all
 git checkout main
 git checkout -b update2
-
+ANOTHER CHANGE
+git stash 
+git checkout update1
+git stash list
+git stash apply
