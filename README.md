@@ -33,3 +33,5 @@ now branch
 git log --oneline --all --graph --decorate
 
 do merge on the web
+
+git fetch --prune
